@@ -33,5 +33,5 @@ Input your search query when prompted. Type 'exit' to quit the application.
 Example
 After running the program, you can enter a query like:
 
-Enter your search query (or type 'exit' to quit): machine learning
+Enter your search query (type query or type 'exit' to quit): machine learning
 The program will output relevant documents and their corresponding relevance scores.
