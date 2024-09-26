@@ -79,6 +79,7 @@ def load_corpus(corpus_folder):
 
 # Example usage
 if __name__ == "__main__":
+# if __name__ == "__main__":
     # Use relative path to the Corpus folder
     corpus_folder = os.path.join(os.getcwd(), 'Corpus')
     corpus = load_corpus(corpus_folder)
